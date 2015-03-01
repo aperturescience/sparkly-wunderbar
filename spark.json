@@ -1,0 +1,7 @@
+{
+  "name": "sparkly-wunderbar",
+  "author": "Seppe Stas <seppestas@gmail.com>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Library to connect Spark Core to the Wunderbar Bridge Module."
+}
